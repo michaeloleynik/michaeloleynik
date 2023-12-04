@@ -27,12 +27,13 @@ I'm an frontend developer and Cyber Security Engineer.
 ### 📊 Stats
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=michaeloleynik&show_icons=true&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaeloleynik&layout=compact)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=michaeloleynik&theme=gruvbox&border_radius=4.5) -->
 
 ### 🏆 Achievements
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=michaeloleynik&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=michaeloleynik&theme=gruvbox)](https://github.com/michaeloleynik/michaeloleynik_readme)
 
 #
 
@@ -42,7 +43,7 @@ I'm an frontend developer and Cyber Security Engineer.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://tttttt.me/mishan9_ol" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram" alt="" height="30" width="40" /></a>
+<a href="https://tttttt.me/mishan9_ol" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="" height="30" width="40" /></a>
 <a href="mailto:mikhail.oleynik.02@mail.ru" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mail-dot-ru.svg" alt="" height="30" width="40" /></a>
 
 </p>
