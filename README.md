@@ -1,6 +1,6 @@
 <h3 align="center">👋 Hi Everyone my name is Mikhail Oleynik</h3>
 
-<p align="center">I'm an frontend developer and Cyber Security Engineer.</p>
+<p align="center">I'm an Frontend Developer and Cyber Security Engineer.</p>
 
 ---
 
