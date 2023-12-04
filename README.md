@@ -37,9 +37,8 @@
 <h3 align="center">🏆 Achievements</h3>
 
 <p align="center">
-<img alig src="https://github-profile-trophy.vercel.app/?username=michaeloleynik&theme=onedark&row=1&column=3&no-bg=true" />
+<img alig src="https://github-profile-trophy.vercel.app/?username=michaeloleynik&theme=onedark&no-frame=true&row=1&column=3&no-bg=true" />
 </p>
-#
 
 <details align="center">
  <summary><h3>👨‍💻 My Coding Journey</h3></summary>
