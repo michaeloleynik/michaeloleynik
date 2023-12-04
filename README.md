@@ -27,15 +27,15 @@ I'm an frontend developer and Cyber Security Engineer.
 ### 📊 Stats
 
 <p align="left">
-<img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=michaeloleynik&show_icons=true&theme=gruvbox">
-<img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaeloleynik&layout=compact&theme=gruvbox">
+<img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=michaeloleynik&show_icons=true&theme=gotham">
+<img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaeloleynik&layout=compact&theme=gotham">
 </p>
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=michaeloleynik&theme=gruvbox&border_radius=4.5) -->
 
 ### 🏆 Achievements
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=michaeloleynik&theme=gruvbox&row=3&column=3)](https://github.com/michaeloleynik/michaeloleynik_readme)
+[![trophy](https://github-profile-trophy.vercel.app/?username=michaeloleynik&theme=onedark&row=3&column=3&no-bg=true)](https://github.com/michaeloleynik/michaeloleynik_readme)
 
 #
 
