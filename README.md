@@ -37,7 +37,7 @@
 <h3 align="center">🏆 Achievements</h3>
 
 <p align="center">
-[![trophy](https://github-profile-trophy.vercel.app/?username=michaeloleynik&theme=onedark&row=1&column=3&no-bg=true)](https://github.com/michaeloleynik/michaeloleynik_readme)
+<img alig src="https://github-profile-trophy.vercel.app/?username=michaeloleynik&theme=onedark&row=1&column=3&no-bg=true" />
 </p>
 #
 
